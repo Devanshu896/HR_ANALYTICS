@@ -37,5 +37,5 @@ DAX formulas to compute KPIs such as average income, attrition percentage, and t
 
 Visualizations such as bar charts, pie charts, KPI cards, and slicers to enable dynamic, user-driven insights
 
-
+DASHBOARD:https://github.com/Devanshu896/HR_ANALYTICS/blob/main/HR%20_ANALYTICS%20SS.png
 
