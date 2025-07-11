@@ -1,0 +1,49 @@
+ HR Analytics Power BI Report
+1️. Executive Summary
+KPI Cards:
+
+Total Employees
+
+Attrition Rate
+
+Average Monthly Income
+
+Average Years at Company
+
+2️. Attrition Analysis
+Charts:
+
+Attrition by Age Group
+
+Attrition by Department
+
+Attrition by Job Role
+
+Attrition vs. Overtime (Stacked Bar)
+
+3️. Demographic Breakdown
+Charts:
+
+Gender Distribution (Donut Chart)
+
+Education Level Distribution (Bar Chart)
+
+Marital Status (Pie Chart)
+
+4️. Satisfaction & Engagement
+Charts:
+
+Average Job Satisfaction by Department
+
+Environment Satisfaction Distribution
+
+Work-Life Balance Ratings
+
+5️. Compensation & Tenure
+Charts:
+
+Monthly Income Distribution (Histogram)
+
+Years at Company by Job Level (Boxplot)
+
+Total Working Years vs. Attrition (Scatter Plot)
