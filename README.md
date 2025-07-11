@@ -1,5 +1,5 @@
 # HR_ANALYTIC
-🎯 Project Title Ideas
+🎯 Project Title :
 HR Analytics Dashboard: Attrition and Workforce Insights
 
 🛠️ DESCRIPTION:
